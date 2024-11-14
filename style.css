@@ -33,5 +33,17 @@ div1 {
   margin-right: auto;
   margin-left: auto;
   width: 50%;
-  flax-basis: 100%;
+  flex-basis: 100%;
+}
+
+div2 {
+  float: left;
+  width: 25%;
+  flex-basis: 100%;
+}
+
+div3 {
+  float: left;
+  width: 25%;
+  flex-basis: 100%;
 }

@@ -30,19 +30,8 @@ p1 {
 }
 
 div1 {
-  float: center;
-  width: 50%;
-  flex-basis: 100%;
-}
-
-div2 {
-  float: left;
-  width: 25%;
-  flex-basis: 100%;
-}
-
-div3 {
-  float: right;
-  width: 25%;
+  margin-right: auto;
+  margin-left: auto;
+  width: 75%;
   flex-basis: 100%;
 }

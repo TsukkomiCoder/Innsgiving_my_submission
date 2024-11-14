@@ -30,8 +30,7 @@ p1 {
 }
 
 div1 {
-  margin-right: auto;
-  margin-left: auto;
+  float: center;
   width: 50%;
   flex-basis: 100%;
 }
@@ -43,7 +42,7 @@ div2 {
 }
 
 div3 {
-  float: left;
+  float: right;
   width: 25%;
   flex-basis: 100%;
 }

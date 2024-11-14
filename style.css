@@ -24,4 +24,8 @@ div1 {
   color: #B8E0FF;
   font-family: monospace;
   font-size: 17px;
+  padding-top: 50px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+  padding-left: 50px;
 }

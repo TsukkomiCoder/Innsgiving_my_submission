@@ -1,0 +1,33 @@
+main {
+  background: #212957;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+h1 {
+  color: #B8E0FF;
+  font-family: monospace;
+  font-size: 30px;
+  text-align: center;
+}
+
+h2 {
+  color: #B8E0FF;
+  font-family: monospace;
+  font-size: 30px;
+  text-align: center;
+}
+
+p1 {
+  color: #B8E0FF;
+  font-family: monospace;
+  font-size: 17px;
+}
+
+div1 {
+  margin-right: auto;
+  margin-left: auto;
+  width: 50%;
+  flax-basis: 100%;
+}

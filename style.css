@@ -1,5 +1,9 @@
+body {
+  background-color: #212957;
+}
+
 main {
-  background: #212957;
+  background-color: #212957;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
